@@ -1,6 +1,6 @@
 # Mice-Resistance-Fitting-APP
 
-这是论文 **Electrical Impedance Spectroscopy of Young and Old Mouse Multiple Tissue** 的官方配套 MATLAB 软件与实现代码。
+这是论文 **Electrical Impedance Spectroscopy of Young and Old Mouse Multiple Tissues** 的官方配套 MATLAB 软件与实现代码。
 
 本工程基于 **MATLAB R2021b** 开发，提供了一个直观的图形用户界面（GUI），用于实现论文中所提出小鼠各组织器官阻抗拟合算法。
 
