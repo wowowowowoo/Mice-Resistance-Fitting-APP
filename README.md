@@ -28,7 +28,7 @@
 2. 打开 MATLAB R2021b，将当前工作目录切换至本项目根目录。
 3. 在 MATLAB 命令行窗口中直接输入MICE.mlapp文件并回车运行。或者在 MATLAB 文件浏览器中直接双击 MICE.mlapp 运行。
 4. 
-### 选项 B：在无 MATLAB 环境的电脑上运行（推荐普通用户）
+### 选项 B：在无 MATLAB 环境的电脑上运行
 进入本仓库的 release/ 文件夹。
 下载MyAppInstaller_web.exe 独立运行程序。
 双击运行安装程序。安装过程中，程序会自动提示并免费下载安装对应版本的 MATLAB Runtime。安装完成后双击桌面快捷方式独立运行。
